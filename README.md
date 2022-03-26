@@ -22,16 +22,16 @@
 <br/>
 <p align="left">
     <!-- linkedin -->
-    <a href="www.linkedin.com/in/s-nishanth" target="blank"><img
+    <a href="www.linkedin.com/in/s-nishanth" target="_blank" rel="noreferrer"><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="https://www.linkedin.com/in/nishanth-s-011190209/" height="30" width="40" /></a>
     <!-- leetcode -->
-    <a href="https://www.leetcode.com/s_nishanth" target="blank"><img align="center"
+    <a href="https://www.leetcode.com/s_nishanth" target="_blank" rel="noreferrer"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
             alt="s_nishanth" height="30" width="40" /></a>
     <!-- hackerranck -->
-    <a href="https://www.hackerrank.com/@kutty_nishanth" target="blank"><img align="center"
+    <a href="https://www.hackerrank.com/@kutty_nishanth" target="_blank" rel="noreferrer"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
             alt="@kutty_nishanth" height="30" width="40" /></a>
 </p>
