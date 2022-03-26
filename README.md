@@ -36,12 +36,10 @@
             alt="@kutty_nishanth" height="30" width="40" /></a>
 </p>
 <br/>
-<br/>
 
 # Tech stacks
 
 ## Languages
-
 <p>
       <!-- C -->
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
@@ -84,8 +82,6 @@
 <br/>
 
 ## Frameworks | Libraries
-
-<br/>
 <p align="left">
     <!--flutter -->
     <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img
@@ -133,8 +129,6 @@
 <br/>
 
 ## Database | Cloud
-
-<br/>
 <p>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -151,8 +145,6 @@
 <br/>
 
 ## Tools
-
-<br/>
 <p>
     <!-- git -->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
@@ -194,7 +186,7 @@
 <br/>
 <br/>
 
-<div style="display:flex;align-items:center;justify-content:center;">\
+<div style="display:flex;align-items:center;justify-content:center;">
     <p>
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuttyhub&" alt="kuttyhub" />
     </p>
