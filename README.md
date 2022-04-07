@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nishanthsundaraj@outlook.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1o-Cum72jmI5zuEZsIMdJSI6MY4ir2tRq/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1AjYCleVzJdQEvqYbQfjamFaqCql0pOwj/view?usp=sharing)
 
 - ⚡ Fun fact **I love reading books in the morning with a perfect cup of coffee. Also, I am quite addicted to listening songs on Spotify 😊.**
 <br/>
@@ -140,45 +140,45 @@
     </p>
 
 - <h3>Tools</h3>
-    <p>
-        <!-- git -->
-        <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-        </a>
-        <!-- netlify -->
-        <a href="https://www.netlify.com" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
-                height="40" width="40" alt="netlify" />
-        </a>
-        <!-- figma -->
-        <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
-        <!-- docker -->
-        <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-                alt="docker" width="40" height="40" /> </a>
-        <!-- postman -->
-        <a href="https://www.postman.com" target="_blank" rel="noopener noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-                height="40" /> </a>
-        <!-- linux -->
-        <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-                width="40" height="40" /> </a>
-        <!-- bash -->
-        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer">
-            <img src="/assets/bash.svg" height="40" alt="bash shell"/>
-        </a>
-        <!-- notion -->
-        <a href="https://www.notion.so/" target="_blank" rel="noopener noreferrer">
-            <img src="/assets/notion.svg" height="40" alt="Notion"/>
-        </a>
-        <!-- spotify -->
-        <a href="https://www.spotify.com/" target="_blank" rel="noopener noreferrer">
-        <img src="/assets/spotify.svg" height="40" alt="Spotify"/>
-        </a>
-    </p>
-<br/>
+      <p>
+          <!-- git -->
+          <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> <img
+                  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+          </a>
+          <!-- netlify -->
+          <a href="https://www.netlify.com" target="_blank" rel="noopener noreferrer">
+              <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+                  height="40" width="40" alt="netlify" />
+          </a>
+          <!-- figma -->
+          <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"> <img
+                  src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
+          <!-- docker -->
+          <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"> <img
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+                  alt="docker" width="40" height="40" /> </a>
+          <!-- postman -->
+          <a href="https://www.postman.com" target="_blank" rel="noopener noreferrer"> <img
+                  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
+                  height="40" /> </a>
+          <!-- linux -->
+          <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"> <img
+                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
+                  width="40" height="40" /> </a>
+          <!-- bash -->
+          <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer">
+              <img src="/assets/bash.svg" height="40" alt="bash shell"/>
+          </a>
+          <!-- notion -->
+          <a href="https://www.notion.so/" target="_blank" rel="noopener noreferrer">
+              <img src="/assets/notion.svg" height="40" alt="Notion"/>
+          </a>
+          <!-- spotify -->
+          <a href="https://www.spotify.com/" target="_blank" rel="noopener noreferrer">
+          <img src="/assets/spotify.svg" height="40" alt="Spotify"/>
+          </a>
+      </p>
+  <br/>
 
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuttyhub&" alt="kuttyhub" />
