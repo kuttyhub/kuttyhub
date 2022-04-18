@@ -31,9 +31,9 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
             alt="s_nishanth" height="30" width="40" /></a>
     <!-- hackerranck -->
-    <a href="https://www.hackerrank.com/@kutty_nishanth" target="_blank" rel="noopener noreferrer"><img align="center"
+    <a href="https://www.hackerrank.com/kutty_nishanth" target="_blank" rel="noopener noreferrer"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-            alt="@kutty_nishanth" height="30" width="40" /></a>
+            alt="kutty_nishanth" height="30" width="40" /></a>
 </p>
 <br/>
 
