@@ -5,17 +5,17 @@
 
 ## About me
 
-- 🌱 I’m currently learning **Next-Js, Three js, sSocet io**
+- 🌱 I’m currently learning **Three js, Socket io**
 
 <!-- - 👨‍💻 All of my projects are available at [https://nishanths.dev](https://nishanths.dev) -->
 
-- 💬 Ask me about **Programming, UI Design, WebDevelopment**
+- 💬 Ask me about **CP-Programming, UI Design, Web Development, Mobile Development**
 
 - 📫 How to reach me **nishanthsundaraj@outlook.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/11ejTCZohpsmbUhQxYheh7dqmn_z6nJIA/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1p4zzGv6d_KTGQYzQWPmlyYZBfExwuJij/view)
 
-- ⚡ Fun fact **I love reading books in the morning with a perfect cup of coffee. Also, I am quite addicted to listening songs on Spotify 😊.**
+- ⚡ Fun fact **I love reading books in the morning with a perfect cup of coffee. Also, I am quite addicted to listening songs on Spotify 😊 and playing chess.**
 <br/>
 <hr/>
 <h3 align="left">Connect with me:</h3>
@@ -179,7 +179,6 @@
           </a>
       </p>
   <br/>
-
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuttyhub&" alt="kuttyhub" />
 </p>
